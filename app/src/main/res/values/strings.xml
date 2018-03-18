@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Achmad Farhan Febrianto_1202154208_Modul4</string>
+    <string-array name="namamahasiswa">
+        <item>Achmad Farhan Febrianto</item>
+        <item>Joko</item>
+        <item>Budi</item>
+        <item>Agung</item>
+        <item>Brian</item>
+        <item>John Cena</item>
+        <item>Rey Misterio</item>
+        <item>Dilan</item>
+        <item>Brod Pitt</item>
+        <item>Chung Lee</item>
+        <item>Jack</item>
+        <item>Andre</item>
+        <item>Sutisna</item>
+        <item>Dina</item>
+    </string-array>
+</resources>
